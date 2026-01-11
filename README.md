@@ -10,3 +10,6 @@ Sources will be listed at the bottom of pages as needed.
 
 Current Guides:
 * Linux Cookbook 1.1 (Fedora, Debian, Unbuntu)
+    - Serves as a quick guide for stuff I've found useful for MACCDC Quals and Regionals
+    - Currenlty Preparing for MACCDC rn, so will be up once I'm done
+
