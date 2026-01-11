@@ -4,6 +4,9 @@ Topics can range from:
 * Linux Related
 * GIMP Related
 * Blender Related
-* Godot & Stride Related
+* Godot
 
 Sources will be listed at the bottom of pages as needed.
+
+Current Guides:
+* Linux Cookbook 1.1 (Fedora, Debian, Unbuntu)
